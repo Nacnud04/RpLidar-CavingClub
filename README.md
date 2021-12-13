@@ -24,6 +24,6 @@
 - The same as rplidarImportable-CLI.py just the the program is written as functions which can be imported into another program.
 - More information in comments of program
 
-##
+## simpleRecord-CLI.py
 - Records measurments to a given file. 
 - Usage example: python3 simpleRecord-CLI.py outfile.txt
