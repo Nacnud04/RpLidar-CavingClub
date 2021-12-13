@@ -3,7 +3,7 @@ from rplidar import RPLidar
 
 if sys.argv[1] == '-h':
     print('''
-        Usage: python3 test.py {portname} {scantype} {#scans/outfile/type} {outfile/rate}
+        Usage: python3 rplidarImportable-CLI.py {portname} {scantype} {#scans/outfile/type} {outfile/rate}
             -n = Scan a certain number of times then stop
               eg. -n 15 outfile.txt
             -o = Scan once then stop
